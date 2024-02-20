@@ -1,2 +1,6 @@
 # Homeless
 Homeless project using Python
+
+Two years back, I made the leap from Beijing to Los Angeles. The initial days were like stepping into a different universe. Passing by streets lined with tents, litter, and people lying on the ground was a surreal experience, one that filled me with a mix of anxiety and fear. My mind raced with images from countless action movies, each scene playing out a different worst-case scenario. But as time wore on, something shifted within me. I began to see beyond the surface, beyond the stereotypes. I started talking to the people I passed by, those who called the streets their home. What I discovered was a community not defined by their circumstances, but by their warmth and resilience. Despite their struggles, they greeted me with smiles and offered well-wishes for the day ahead. These encounters sparked something inside me—a desire to understand their stories, to offer a helping hand where I could. And so, armed with compassion and curiosity, I set out on a journey of research, hoping to shed light on the lives of those often overlooked by society.
+
+![homeless-in-skid-row](https://github.com/EmilyGU810/Homeless/assets/130021542/e5f77de2-9ac1-49a9-96a1-bbe293de44b3)
